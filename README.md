@@ -1,2 +1,2 @@
 # SuperPerson
-*Full repo for SuperPerson telepresence project*
+*Full GitHub repo for SuperPerson telepresence project*
